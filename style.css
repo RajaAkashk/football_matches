@@ -1,0 +1,20 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.fixture-card {
+  border-left: 5px solid #0d6efd;
+  /* border-left: 5px solid #272829; */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  margin-bottom: 1rem;
+}
+
+.fixture-time {
+  font-size: 0.9rem;
+  color: #6c757d;
+}
+
+.fixture-teams {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
