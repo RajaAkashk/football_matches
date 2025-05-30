@@ -6,6 +6,7 @@ This project displays a list of upcoming soccer matches fetched from a public AP
 It shows each match's scheduled date/time along with the two competing teams and their logos.
 
 Technology Stack
+
 HTML
 
 CSS (Bootstrap 5)
@@ -13,11 +14,13 @@ CSS (Bootstrap 5)
 JavaScript (Vanilla)
 
 API Used
+
 API-Football
 
 Endpoint used: https://v3.football.api-sports.io/fixtures?date=2025-05-30
 
 Features
+
 Fetches and displays upcoming soccer fixtures for a given date.
 
 Shows team names, logos, league name, and match date/time.
@@ -25,6 +28,7 @@ Shows team names, logos, league name, and match date/time.
 "Load More" button to view more matches in batches of 10.
 
 How to Run
+
 Clone or download the repo.
 
 Open index.html in a modern web browser.
